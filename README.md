@@ -2,15 +2,7 @@
 
 - 💻 I'm currently working for [Mobidrom GmbH](https://mobidrom.nrw)
 - 🌱 I’m always learning something new every day
-- 🎓 On my way on becoming a Kubestronaut
-  <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubestronaut-stacked-color.svg" height="25" alt="kubestronaut logo" />
-  (
-  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" height="25" alt="ckad logo" />: ✅,
-  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg" height="25" alt="cka logo" />: ✅,
-  <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg" height="25" alt="cks logo" />: ✅,
-  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" height="25" alt="kcna logo" />: ⏲,
-  <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg" height="25" alt="kcsa logo" />: ⏲
-  )
+- <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubestronaut-stacked-color.svg" height="25" alt="kubestronaut logo" /> Kubestronaut
 - 💬 Chat with me about renewable energy, electric mobility or ☁️-native stuff
 - Reach out to me at 
   <a href="https://www.linkedin.com/in/funk-john" target="_blank">
